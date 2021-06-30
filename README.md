@@ -18,9 +18,8 @@ This is a vagrant box for working with flask.
 1. `vagrant ssh` to go into the server
 2. `cd /vagrant/hasan`
 3. `python hello.py` to start the development server
-4. Connect to the MySQL server:
   * Server: 192.168.76.76
-5. Point your browser to http://192.168.76.76:5000
+4. Point your browser to http://192.168.76.76:5000
 
 ### Changing Parameters
 
